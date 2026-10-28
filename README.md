@@ -14,7 +14,6 @@ and replies in a natural Egyptian voice. It runs on a normal Windows laptop with
 ![Cost](https://img.shields.io/badge/cost-%240%20(free%20tiers)-2ea44f)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-**Built at [Smart Technology](#-about) to help kids and youth learn and explore.**
 
 🔌 Want a fully offline version that runs on your own GPU? → **[Otto-Assistant](https://github.com/Amr-Ebrahim/Otto-Assistant)**
 
