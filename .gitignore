@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# made while Otto runs (personal / generated)
+quota.json
+otto_log.txt
+*_log.txt
+*_results.txt
+*.wav
+*.mp3
